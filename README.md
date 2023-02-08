@@ -1,2 +1,1 @@
-# Precourse-Henry
-Repositorio de prueba Henry - modulo 2
+Esta es un prueba para el curso desde un repositorio
